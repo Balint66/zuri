@@ -1,0 +1,13 @@
+pkgs:
+  zuri:
+    version: 0.0.0
+    description: "URI parser for Zig"
+    license: MIT
+    source_url: "https://github.com/Balint66/zuri"
+
+    root: src/zuri.zig
+    files:
+      README.md
+      LICENSE
+      build.ziglang
+      src/*.zig
